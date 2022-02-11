@@ -1,2 +1,2 @@
 # projeto.agencia
- Projeto de uma agencia de desenvolvimento de paginas Web
+ Projeto de agencia de desenvolvimento de paginas Web
